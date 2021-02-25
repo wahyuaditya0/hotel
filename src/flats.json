@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Hotel Ibis",
+    "imageUrl": "img/ibis.png",
+    "price": 350000,
+    "priceCurrency": "IDR",
+    "lat": -0.9293096943260878,
+    "lng": 100.36365308327207
+  },
+  {
+    "id": 1,
+    "name": "Hotel Ibis",
+    "imageUrl": "img/ibis.png",
+    "price": 350000,
+    "priceCurrency": "IDR",
+    "lat": -0.9293096943260878,
+    "lng": 100.36365308327207
+  },
+  {
+    "id": 1,
+    "name": "Hotel Ibis",
+    "imageUrl": "img/ibis.png",
+    "price": 350000,
+    "priceCurrency": "IDR",
+    "lat": -0.9293096943260878,
+    "lng": 100.36365308327207
+  },
+  {
+    "id": 1,
+    "name": "Hotel Ibis",
+    "imageUrl": "img/ibis.png",
+    "price": 350000,
+    "priceCurrency": "IDR",
+    "lat": -0.9293096943260878,
+    "lng": 100.36365308327207
+  },
+  {
+    "id": 1,
+    "name": "Hotel Ibis",
+    "imageUrl": "img/ibis.png",
+    "price": 350000,
+    "priceCurrency": "IDR",
+    "lat": -0.9293096943260878,
+    "lng": 100.36365308327207
+  },
+  {
+    "id": 1,
+    "name": "Hotel Ibis",
+    "imageUrl": "img/ibis.png",
+    "price": 350000,
+    "priceCurrency": "IDR",
+    "lat": -0.9293096943260878,
+    "lng": 100.36365308327207
+  }
+]
